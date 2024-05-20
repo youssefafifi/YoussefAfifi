@@ -54,9 +54,9 @@ Test cases to demonstrate the functionality and performance of each algorithm..
 
 ## 📈 GitHub Stats
 
-![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefAfif&show_icons=true&theme=radical)
+![Youssef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=youssefafifi&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAfif&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=youssefafifi&layout=compact&theme=radical)
 
 ## 🎓 Education
 
